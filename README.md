@@ -1,7 +1,7 @@
 # EXB-World
-## How Ex Buddy (EXB) World Created? Listen to Examid's lectures to know this amazing world!
+## How Ex Buddy (EXB) World Created? Listen to Examid's lectures to know about this amazing world!
 
-> There are many steps and Examid will update the path of evolution:
+There are many steps and Examid will update the path of evolution:
 
 ### Home Star
 Stars are the power source of the universe. Solar waves pour onto nearby planets and provide energy for millions of years.
