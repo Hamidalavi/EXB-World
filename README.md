@@ -12,6 +12,10 @@ Earth provides just the right mixture chemicals, an abundance of water, and an o
 ### Primordial Soup
 On the primeval planet Earth, an atmospheric solution rich in organic compounds set the ideal conditions for the development of life.
 
+### Volcano
+The carbon dioxide produced by erupting prehistoric volcanos warmed the Earth, and was a major catalyst in making Earth habitable in its early stages of development.
+> Ozone Layer: The ozone layer in the Earth's stratosphere protects the planet from ultraviolet radiation. Over time, human pollution has damaged this essential barrier.
+
 ### Moon
 The gravitational forces exerted by the Moon and the Sun, and the rotation of Earth, turn the tides of the ancient oceans to advance life (unlocked: The moon is born when a Mars-sized object hits the young Earth).
 
@@ -43,3 +47,22 @@ A cell's control center, the nucleus contains the chromosomes that house DNA.
 
 ### Virus
 A virus is a biological agent that replicates within other cells. Surprisingly, if it were not for the virus' ability to infilitrate the DNA of organisms, humans might not even exist.
+
+### Mitosis
+Mitosis is a process of asexual reproduction where one cell divides into two identical cells. It occurs only in eukaryotic cells, and enables single-celled organisms to multiply.
+
+### Asextual Reproduction
+Similar to mitosis, asexual reproduction is the process by which an entire organism is produced from a single parent. Some types of asexual reproduction are budding, sporification, and parthenogenesis.
+
+### Eukaryotic Cell
+The prokaryotic cell's more complex cousin, eukaryotic cells have a nucleus to store genetic information. Fungi, plants, animals, and protozoa are all built of eukaryotic cells.
+
+### Cytoplasm
+Cytoplasm is a gel-like, colorless substance that fills the inside of a eukaryotic cell. It is secured by the cell membrane and all of the organelles float in it.
+
+### Tissue
+Tissues are groups of cells come Plas together to perform a specific function. Organs are formed by groups of tissues.
+
+### Filter Feeding
+A passive way of finding nourishment involves having nutrients filter Plas through an organism's body. This is the feeding method of choice for shellfish, krill and sponges.
+
