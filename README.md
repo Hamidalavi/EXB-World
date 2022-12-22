@@ -22,4 +22,24 @@ Atoms and molecules bond together to create amino acids, organic compounds that 
 Nucleotides are the chemical compounds that builds the foundation for DNA & RNA.
 > DNA: A molecule with the unique property of self-replication, DNA's infinite configurations form the foundation of all evolutionary changes. It contains the genetic instructions for all life on Earth.
 >> RNA: RNA is responsible for transferring genetic code from the nucleus to ribosomes to make proteins. It controls gene expression and regulation.
-### 
+
+### Protein
+The building blocks of living cells, proteins are molecules made from long chains of amino acids.
+
+### Prokaryotic
+The first living organism. These tiny uni-cellular organisms lacked a membrane-wrapped nucleus, but paved the way for the rest of life to begin (unlocked: The first signs of life bubble up in the primordial soup).
+
+### The Plasma Membrane
+The plasma membrane protects the interior of cells from the environment.
+
+### Bacterium
+Bacteria are unicellular microorganisms that have cell walls, but none of the organelles that make up multicellular organisms. While some can make you sick, most bacteria are harmless and many are actually necessary for you to survive.
+
+### Mitochondria
+The powerhouse of the cell, mitochondria are organelles that converts glucose to energy.
+
+### Nucleus
+A cell's control center, the nucleus contains the chromosomes that house DNA.
+
+### Virus
+A virus is a biological agent that replicates within other cells. Surprisingly, if it were not for the virus' ability to infilitrate the DNA of organisms, humans might not even exist.
