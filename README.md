@@ -29,6 +29,7 @@ Nucleotides are the chemical compounds that builds the foundation for DNA & RNA.
 
 ### Protein
 The building blocks of living cells, proteins are molecules made from long chains of amino acids.
+> When amino acids bond together, they create a chain that becomes an integral building block in creating proteins.
 
 ### Prokaryotic
 The first living organism. These tiny uni-cellular organisms lacked a membrane-wrapped nucleus, but paved the way for the rest of life to begin (unlocked: The first signs of life bubble up in the primordial soup).
@@ -80,10 +81,21 @@ Coral is a marine invertebrate with a hard calcium-carbonate exoskeleton. Coloni
 Jellyfish are softbodied, free-swimming aquatic animals with a gelatinous, umbrella-shaped body and long floating tentacles. They can propel themselves through water by pulsing their body (unlocked: Life leaves the ocean floor, and the journey begins).
 - Radial Symmetry: Organisms that can be divided into identical pieces around a central point, this form of symmetry is more complex than bilateral symmetry.
 - Cnidocytes: One of the first organic weapons, these are explosive cells that fire out a toxic harpoon for self-defense and hunting.
+  - Bilateral Symmetry: Organisms with identical left and right sides, a head, and a tail display bilateral symmetry. This adaptation helped early organisms to develop more complex nervous systems.
 
 ### Nervous System
 The nervous system is a network of cells that sends stimuli through an organism's body in the form of electrical impulses. It is controlled by a central brain.
+- Nerve Cord: The nerve cord is a bundle of nerve fibers that run down an animal's body. Alone, they form a simple version of a nervous system.
 
 ### Swimming
 The simple act of swimming gave many organisms the ability to move from one location to another for the first time.
 
+### Flatworm
+The flatworm is the first organism with bilateral symmetry, which enables the beginnings of the brain and internal organs. These simple creatures set the stage for vertebrates to come.
+- Pigment Spot: A light-sensitive receptor, the pigment spot was a primitive eye. It allowed early organisms to tell light from dark.
+
+### Vertebrate
+Vertebrae are bones that protect the spinal cord; they are the literal backbone of evolution.
+
+### Cocoon
+Fertilized eggs are encased in a cocoon within a flatworm's body. The cocoon is released into the ocean waters. The cocoon provides nourishment to the egg, which will develop and later hatch.
