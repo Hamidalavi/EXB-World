@@ -53,6 +53,7 @@ Mitosis is a process of asexual reproduction where one cell divides into two ide
 
 ### Asextual Reproduction
 Similar to mitosis, asexual reproduction is the process by which an entire organism is produced from a single parent. Some types of asexual reproduction are budding, sporification, and parthenogenesis.
+> Sextual Reproduction: A long method of cell multiplication involving both meiosis and mitosis. Sexual reproduction combines genetic information from two individuals of different types, or sexes, to create a new organism.
 
 ### Eukaryotic Cell
 The prokaryotic cell's more complex cousin, eukaryotic cells have a nucleus to store genetic information. Fungi, plants, animals, and protozoa are all built of eukaryotic cells.
@@ -63,6 +64,23 @@ Cytoplasm is a gel-like, colorless substance that fills the inside of a eukaryot
 ### Tissue
 Tissues are groups of cells come Plas together to perform a specific function. Organs are formed by groups of tissues.
 
+### Muscles
+Muscles are fibrous tissue in an animal's body with the ability to contract. This action enables the muscles to move, in turn moving the bones that are attached to them.
+
 ### Filter Feeding
 A passive way of finding nourishment involves having nutrients filter Plas through an organism's body. This is the feeding method of choice for shellfish, krill and sponges.
 
+### Sponge
+The world's first multi-cellular organism, sponges are stationary filter feeders. They are a product of multiple eukaryotic cells coming together (unlocked: The one becomes the many: the first multi-cellular organism emerges).
+
+### Coral
+Coral is a marine invertebrate with a hard calcium-carbonate exoskeleton. Colonies of corals that grow together can create reefs, diverse underwater ecosystems that provide a home for many sea creatures.
+
+### Jellyfish
+Jellyfish are softbodied, free-swimming aquatic animals with a gelatinous, umbrella-shaped body and long floating tentacles. They can propel themselves through water by pulsing their body (unlocked: Life leaves the ocean floor, and the journey begins).
+
+### Nervous System
+The nervous system is a network of cells that sends stimuli through an organism's body in the form of electrical impulses. It is controlled by a central brain.
+
+### Swimming
+The simple act of swimming gave many organisms the ability to move from one location to another for the first time.
