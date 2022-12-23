@@ -25,7 +25,7 @@ Atoms and molecules bond together to create amino acids, organic compounds that 
 ### Nucleotides
 Nucleotides are the chemical compounds that builds the foundation for DNA & RNA.
 > DNA: A molecule with the unique property of self-replication, DNA's infinite configurations form the foundation of all evolutionary changes. It contains the genetic instructions for all life on Earth.
->> RNA: RNA is responsible for transferring genetic code from the nucleus to ribosomes to make proteins. It controls gene expression and regulation.
+> RNA: RNA is responsible for transferring genetic code from the nucleus to ribosomes to make proteins. It controls gene expression and regulation.
 
 ### Protein
 The building blocks of living cells, proteins are molecules made from long chains of amino acids.
@@ -78,9 +78,12 @@ Coral is a marine invertebrate with a hard calcium-carbonate exoskeleton. Coloni
 
 ### Jellyfish
 Jellyfish are softbodied, free-swimming aquatic animals with a gelatinous, umbrella-shaped body and long floating tentacles. They can propel themselves through water by pulsing their body (unlocked: Life leaves the ocean floor, and the journey begins).
+> Radial Symmetry: Organisms that can be divided into identical pieces around a central point, this form of symmetry is more complex than bilateral symmetry.
+> Cnidocytes: One of the first organic weapons, these are explosive cells that fire out a toxic harpoon for self-defense and hunting.
 
 ### Nervous System
 The nervous system is a network of cells that sends stimuli through an organism's body in the form of electrical impulses. It is controlled by a central brain.
 
 ### Swimming
 The simple act of swimming gave many organisms the ability to move from one location to another for the first time.
+
