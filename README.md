@@ -1,7 +1,7 @@
 # EXB-World
 ## How Ex Buddy (EXB) World Created? Listen to Examid's lectures to know about this amazing world!
 
-There are many steps and Examid will update the path of evolution:
+There are many steps and Examid will update the path of evolution (all data is from CTS game):
 
 ### Home Star
 Stars are the power source of the universe. Solar waves pour onto nearby planets and provide energy for millions of years.
@@ -82,6 +82,9 @@ Jellyfish are softbodied, free-swimming aquatic animals with a gelatinous, umbre
 - Radial Symmetry: Organisms that can be divided into identical pieces around a central point, this form of symmetry is more complex than bilateral symmetry.
 - Cnidocytes: One of the first organic weapons, these are explosive cells that fire out a toxic harpoon for self-defense and hunting.
   - Bilateral Symmetry: Organisms with identical left and right sides, a head, and a tail display bilateral symmetry. This adaptation helped early organisms to develop more complex nervous systems.
+  - Radial Symmetry: Organisms that can be divided into identical pieces around a central point, this form of symmetry is more complex than bilateral symmetry.
+  - Pigment Spot: A light-sensitive receptor, the pigment spot was a primitive eye. It allowed early organisms to tell light from dark.
+  - Heart: The heart is an organ dedicated to pumping blood through an organism. The center of the circulatory system, this organ is essential to keeping an animal alive.
 
 ### Nervous System
 The nervous system is a network of cells that sends stimuli through an organism's body in the form of electrical impulses. It is controlled by a central brain.
@@ -93,12 +96,12 @@ The simple act of swimming gave many organisms the ability to move from one loca
 ### Flatworm
 The flatworm is the first organism with bilateral symmetry, which enables the beginnings of the brain and internal organs. These simple creatures set the stage for vertebrates to come.
 - Pigment Spot: A light-sensitive receptor, the pigment spot was a primitive eye. It allowed early organisms to tell light from dark.
-
-### Vertebrate
-Vertebrae are bones that protect the spinal cord; they are the literal backbone of evolution.
+- Medulla Oblongata: A structure located in the lower part of the brainstem, the medulla controls the autonomic functions of the body, including heartbeat, breathing, and sleeping. It evolved in fish around 500 million years ago and forms a large portion of the reptile brain.
+- Vertebrate: Vertebrae are bones that protect the spinal cord; they are the literal backbone of evolution.
 
 ### Cocoon
 Fertilized eggs are encased in a cocoon within a flatworm's body. The cocoon is released into the ocean waters. The cocoon provides nourishment to the egg, which will develop and later hatch.
 
 ### Fish
 With fins to maneuver the ancient seas, fish evolved from the less agile invertebrates and rapidly diversified to take control of the oceans.
+- 
